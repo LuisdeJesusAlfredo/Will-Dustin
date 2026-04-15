@@ -2,12 +2,12 @@ These are robots that simulate two childs that try to escape from the Demogorgon
 
 **Materials (of 1 robot)**
 
--Color sensor
--Lego wheel 39370c01 (or just Idle wheel)
--2 Motors
--2 11x19 Lego technic panel yellow
--1 Brain of Lego Spike
--2 Wheels 
+- Color sensor
+- Lego wheel 39370c01 (or just Idle wheel)
+- 2 Motors
+- 2 11x19 Lego technic panel yellow
+- 1 Brain of Lego Spike
+- 2 Wheels 
 
 This code is loaded to the brain by a program called *Lego Edcuation Spike*, in wich you put all of these blocks, then go to the *Bluetooth* section and turn on your Lego brain, then press the *Bluetooth* button on the Lego and it will connect automatically. Once you have finished the entire code without any errors, upload it to the section where a number appears next to the start code button.
 
