@@ -13,10 +13,11 @@ This code is loaded to the brain by a program called *Lego Edcuation Spike*, in 
 
 **BUILDING**
 
-All of this paragraph is the building with Lego; firstly connect the brain into a plate and connect that plate with other, with the brain standing on top and using normal connections and 2 motors in the middle of them, and the motors connect them to the brain´s ports C and D, then connect the idle wheel in the front end and 2 big wheels connected tothe motors, and for  the final connect the color sensor in the front end and to the brain in the port B.
+*All of this paragraph is the building with Lego;* 
 
-    And for the final touch add a plushie of the kid you want to put
-in that car on top with a plastic tube.
+Firstly connect the brain into a plate and connect that plate with other, with the brain standing on top and using normal connections and 2 motors in the middle of them, and the motors connect them to the brain´s ports C and D, then connect the idle wheel in the front end and 2 big wheels connected tothe motors, and for  the final connect the color sensor in the front end and to the brain in the port B.
+
+And for the final touch add a plushie of the kid you want to put in that car on top with a plastic tube.
 
 **LIMITATIONS**
 
