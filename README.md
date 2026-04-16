@@ -25,3 +25,7 @@ And for the final touch add a plushie of the kid you want to put in that car on 
 **LIMITATIONS**
 
 A very high limitation is the cost  of the lego pieces, because not everyone can afford them.
+
+Check our other projects!
+
+[Mini Demogorgons](https://github.com/LuisdeJesusAlfredo/Mini-Demogorgons)
