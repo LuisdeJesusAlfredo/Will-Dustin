@@ -29,3 +29,5 @@ A very high limitation is the cost  of the lego pieces, because not everyone can
 Check our other projects!
 
 [Mini Demogorgons](https://github.com/LuisdeJesusAlfredo/Mini-Demogorgons)
+
+[Large Demogorgon](https://github.com/LuisdeJesusAlfredo/Large-Demogorgon)
