@@ -1,5 +1,8 @@
 These are robots that simulate two childs that try to escape from the Demogorgon.
 
+[Will / Dustin]
+<img width="1200" height="1600" alt="WhatsApp Image 2026-04-15 at 9 01 11 PM" src="https://github.com/user-attachments/assets/a12d492f-b894-479d-9f05-29107b4ae6c7" />
+
 **Materials (of 1 robot)**
 
 - Color sensor
