@@ -8,7 +8,7 @@ These are robots that simulate two childs that try to escape from the Demogorgon
 
 **A BRIEF OF HISTORY**
 
-This robots was build by my teammates *GAEL* & *JULIETA*.
+This robots was build by my teammates *GAEL* & *JULIETA*. The entire idea for the competition presentation stemmed from the team's decision to use an episode of Stranger Things as inspiration. The episode focused on the characters' relationship with the Demogorgons and the cameo reference to the Real Ghostbusters animated series. Therefore, we decided to use line-following robots to represent the characters fleeing from a Demogorgon.
 
 ---
 
@@ -23,7 +23,9 @@ This robots was build by my teammates *GAEL* & *JULIETA*.
 
 This code is loaded to the brain by a program called *Lego Edcuation Spike*, in wich you put all of these blocks, then go to the *Bluetooth* section and turn on your Lego brain, then press the *Bluetooth* button on the Lego and it will connect automatically. Once you have finished the entire code without any errors, upload it to the section where a number appears next to the start code button.
 
-**BUILDING**
+---
+
+**BUILDING & CONNECTIONS**
 
 *All of this paragraph is the building with Lego;* 
 
@@ -31,9 +33,17 @@ Firstly connect the brain into a plate and connect that plate with other, with t
 
 And for the final touch add a plushie of the kid you want to put in that car on top with a plastic tube.
 
+---
+
 **LIMITATIONS**
 
 A very high limitation is the cost  of the lego pieces, because not everyone can afford them.
+
+**In future improvements we made a better modeling and assembly with the plushes**
+
+---
+
+**SEE ALSO**
 
 Check our other projects!
 
